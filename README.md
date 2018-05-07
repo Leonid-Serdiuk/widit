@@ -1,2 +1,2 @@
 # widit
-while (I) {Do::IT();} - Simple and Fast PHP Framework
+while (I) do('IT'); or While I Do It - Simple and Easy PHP Framework.
