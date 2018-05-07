@@ -1,0 +1,1 @@
+<h1>While I Do It blog by <?php echo $name; ?> Serdiuk</h1>

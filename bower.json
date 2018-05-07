@@ -1,0 +1,24 @@
+{
+  "name": "whileidoit",
+  "description": "My blog project",
+  "main": "index.php",
+  "authors": [
+    "Leonid Serdiuck"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "bootstrap": "3.*",
+    "components-font-awesome": "^4.7.0"
+  }
+}
